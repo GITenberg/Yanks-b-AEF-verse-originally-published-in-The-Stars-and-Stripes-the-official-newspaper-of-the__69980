@@ -1,5 +1,8 @@
 _repo: Yanks-b-AEF-verse-originally-published-in-The-Stars-and-Stripes-the-official-newspaper-of-the__69980
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69980-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69980#Yanks-b-AEF-verse-originally-published-in-The-Stars-and-Stripes-the-official-newspaper-of-the_
 gutenberg_issued: '2023-02-07'
 identifiers:
   gutenberg: '69980'
